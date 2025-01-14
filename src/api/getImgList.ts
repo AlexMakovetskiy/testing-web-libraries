@@ -1,5 +1,5 @@
 async function getImgList() {
-    const baseUrl = "https://run.mocky.io/v3/2545ebc3-ab28-427e-ac12-a771f495aec7";
+    const baseUrl = "https://run.mocky.io/v3/aaab7941-6cdb-41f1-96f7-66b793cecb96";
 
     return await fetch(baseUrl, {
         method: "GET",
